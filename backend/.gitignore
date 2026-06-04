@@ -13,3 +13,6 @@ dist/
 
 # VS Code
 .vscode/
+
+__pycache__/
+*.py[cod]
